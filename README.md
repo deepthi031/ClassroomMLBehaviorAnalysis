@@ -1,4 +1,4 @@
-Certainly! Here's an updated version of your README file that includes instructions for running the YOLOv8 model on a video using OpenCV:
+Certainly! Here's an updated version of your README file that includes instructions for running the YOLOv5 model on a video using OpenCV:
 
 ---
 
